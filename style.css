@@ -1,0 +1,936 @@
+.fullpage{
+    position: relative;
+    width: 360px;
+    height: 800px;
+    /* border: 1px red solid; */
+    background: #FFFFFF;
+}
+/**************************************Rectangle 0 and its divisions *************************************************************** */
+
+.logo_small {
+/* logo-small 1 */
+
+position: absolute;
+width: 31px;
+height: 31px;
+left: 20px;
+top: 21px;
+
+background: url(logo-small.png);
+
+}
+.Emptycup {
+/* EmptyCup */
+
+position: absolute;
+width: 124px;
+height: 35px;
+left: 118px;
+top: 24px;
+
+font-family: 'Chivo';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+
+color: #716966;
+
+
+
+
+}
+.menu {
+/* three-dots-vertical 1 */
+
+position: absolute;
+width: 27px;
+height: 27px;
+left: 307px;
+top: 24px;
+
+
+
+
+
+}
+.line7 {
+/* Line 1 */
+
+position: absolute;
+width: 360px;
+height: 0px;
+left: 0px;
+top: 72px;
+
+border: 0.25px solid #D0D0D0;
+transform: rotate(0.16deg);
+
+}
+.contacts_img{
+/* Vector */
+
+position: absolute;
+left: 5.56%;
+right: 87.5%;
+top: 11.88%;
+bottom: 85.31%;
+
+/* background: #E0A64E; */
+
+
+
+
+}
+.contacts {
+/* Contacts */
+
+position: absolute;
+width: 34px;
+height: 10px;
+left: 16px;
+top: 127px;
+
+font-family: 'Chivo';
+font-style: normal;
+font-weight: 400;
+font-size: 8px;
+line-height: 10px;
+/* identical to box height */
+
+color: #E0A64E;
+
+
+}
+.Gallary_img {
+/* Vector */
+
+position: absolute;
+left: 21.94%;
+right: 71.39%;
+top: 12.12%;
+bottom: 85.44%;
+
+/* background: #3A312E; */
+
+}
+.Gallary{
+/* Gallery */
+
+position: absolute;
+width: 27px;
+height: 10px;
+left: 77px;
+top: 127.5px;
+
+font-family: 'Chivo';
+font-style: normal;
+font-weight: 400;
+font-size: 8px;
+line-height: 10px;
+/* identical to box height */
+
+color: #716966;
+
+
+}
+.Map_img {
+/* Vector */
+
+position: absolute;
+left: 38.61%;
+right: 56.67%;
+top: 12.12%;
+bottom: 85.38%;
+
+/* background: #D7D7D7; */
+
+}
+.Map{
+/* Map */
+
+position: absolute;
+width: 17px;
+height: 10px;
+left: 139px;
+top: 127.75px;
+
+font-family: 'Chivo';
+font-style: normal;
+font-weight: 400;
+font-size: 8px;
+line-height: 10px;
+/* identical to box height */
+
+color: #D0D0D0;
+
+
+}
+.shortlist3_img{
+/* clipboard-heart 1 */
+
+position: absolute;
+width: 29px;
+height: 28px;
+left: 248px;
+top: 95px;
+}
+.shortlist3{
+/* Shortlisted */
+
+position: absolute;
+width: 42px;
+height: 10px;
+left: 242px;
+top: 131px;
+
+font-family: 'Chivo';
+font-style: normal;
+font-weight: 400;
+font-size: 8px;
+line-height: 10px;
+/* identical to box height */
+
+color: #716966;
+
+
+}
+.sort_img{
+/* Vector */
+
+position: absolute;
+left: 84.72%;
+right: 6.67%;
+top: 12.25%;
+bottom: 84.62%;
+
+/* background: #3A312E; */
+
+}
+.sort{
+/* Sort */
+
+position: absolute;
+width: 17px;
+height: 10px;
+left: 313px;
+top: 132px;
+
+font-family: 'Chivo';
+font-style: normal;
+font-weight: 400;
+font-size: 8px;
+line-height: 10px;
+/* identical to box height */
+
+color: #716966;
+
+
+}
+
+
+
+
+/**************************************Rectangle 1 and its divisions*************************************************************** */
+.Rectangle1{
+box-sizing: border-box;
+
+position: absolute;
+width: 360px;
+height: 284px;
+left: 0px;
+top: 163px;
+
+background: #FFFCF2;
+border-top: 0.25px solid #D7D7D7;
+}
+.epic_designs{
+    /* Epic Designs */
+position: absolute;
+width: 111px;
+height: 21px;
+left: 33px;
+top: 184px;
+
+font-family: 'Chivo';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 21px;
+
+color: #000000;
+}
+.star_img {
+    /* Group 1 */
+
+position: absolute;
+width: 96px;
+height: 16px;
+left: 33px;
+top: 214px;
+
+}
+.passionate2 {
+    /* Passionate team of 4 designers working out of Bangalore with an experience of 4 years. */
+
+position: absolute;
+width: 211px;
+height: 32px;
+left: 32px;
+top: 250px;
+
+font-family: 'Chivo';
+font-style: normal;
+font-weight: 400;
+font-size: 10px;
+line-height: 12px;
+
+color: #000000;
+
+
+}
+.Projects{
+    /* 57 Projects */
+
+position: absolute;
+width: 47px;
+height: 37px;
+left: 29px;
+top: 303px;
+
+font-family: 'Chivo';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 29px;
+text-align: center;
+
+color: #000000;
+
+
+}
+.years2 {
+    /* 8 Years */
+
+position: absolute;
+width: 47px;
+height: 37px;
+left: 101px;
+top: 303px;
+
+font-family: 'Chivo';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 29px;
+text-align: center;
+
+color: #000000;
+
+
+}
+.dollarPrice2 {
+    /* $$ Price */
+
+position: absolute;
+width: 47px;
+height: 37px;
+left: 179px;
+top: 303px;
+
+font-family: 'Chivo';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 29px;
+text-align: center;
+
+color: #000000;
+
+
+}
+.inner {
+    font-size:24px;
+}
+.number3 {
+    /* +91 - 984532853 */
+
+position: absolute;
+width: 133px;
+height: 19px;
+left: 33px;
+top: 373px;
+
+font-family: 'Chivo';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 19px;
+/* identical to box height */
+
+color: #000000;
+
+
+}
+.number4 {
+    /* +91 - 984532854 */
+
+position: absolute;
+width: 133px;
+height: 19px;
+left: 33px;
+top: 395px;
+
+font-family: 'Chivo';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 19px;
+/* identical to box height */
+
+color: #000000;
+
+
+}
+.line6 {
+    /* Line 3 */
+
+position: absolute;
+width: 237px;
+height: 0px;
+left: 275px;
+top: 190px;
+
+border: 0.25px solid #D0D0D0;
+transform: rotate(90deg) translateX(116px) translateY(116px);
+
+}
+.arrow3_img {
+    /* arrow-right-short 1 */
+
+position: absolute;
+width: 23px;
+height: 22px;
+left: 307px;
+top: 184px;
+
+
+
+
+
+}
+.arrow3 {
+    /* Details */
+
+position: absolute;
+width: 26px;
+height: 10px;
+left: 306px;
+top: 204px;
+
+font-family: 'Chivo';
+font-style: normal;
+font-weight: 400;
+font-size: 8px;
+line-height: 10px;
+/* identical to box height */
+
+color: #8D4337;
+
+
+}
+.eyelash2_img {
+    /* eye-slash 1 */
+
+position: absolute;
+width: 20px;
+height: 20px;
+left: 308px;
+top: 246px;
+}
+.eyelash2 {
+    /* Hide */
+
+position: absolute;
+width: 17px;
+height: 10px;
+left: 309px;
+top: 270px;
+
+font-family: 'Chivo';
+font-style: normal;
+font-weight: 400;
+font-size: 8px;
+line-height: 10px;
+/* identical to box height */
+
+color: #8D4337;
+
+
+}
+.shortlist2_img {
+    /* Vector */
+
+position: absolute;
+left: 85.83%;
+right: 9.38%;
+top: 38.5%;
+bottom: 58.87%;
+
+}
+.shortlist2 {
+    /* Shortlist */
+
+position: absolute;
+width: 33px;
+height: 10px;
+left: 303px;
+top: 332px;
+
+font-family: 'Chivo';
+font-style: normal;
+font-weight: 400;
+font-size: 8px;
+line-height: 10px;
+/* identical to box height */
+
+color: #8D4337;
+
+
+}
+.Report2_img {
+    /* exclamation-circle 1 */
+
+position: absolute;
+width: 16px;
+height: 16px;
+left: 310px;
+top: 377px;
+}
+.Report2 {
+    /* Report */
+
+position: absolute;
+width: 26px;
+height: 10px;
+left: 306px;
+top: 398px;
+
+font-family: 'Chivo';
+font-style: normal;
+font-weight: 400;
+font-size: 8px;
+line-height: 10px;
+/* identical to box height */
+
+color: #8D4337;
+}
+
+
+
+
+
+
+
+
+
+
+/*************************************************Rectangle 2 and its divisions**************************************************** */
+.Rectangle2{
+    /* Rectangle 1 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 360px;
+height: 295px;
+left: -1px;
+top: 448px;
+
+background: #FFFFFF;
+border-top: 0.25px solid #D7D7D7;
+
+}
+/* Studio - D3 */
+.studio_3 {
+
+    position: absolute;
+    width: 95px;
+    height: 21px;
+    left: 32px;
+    top: 479px;
+    
+    font-family: 'Chivo';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 21px;
+    
+    color: #000000;
+}
+
+/* Group 1 */
+.group1 {
+    position: absolute;
+    width: 94px;
+    height: 15px;
+    left: 32px;
+    top: 509px;
+}
+.passionate {
+    /* Passionate team of 4 designers working out of Bangalore with an experience of 4 years. */
+
+position: absolute;
+width: 211px;
+height: 32px;
+left: 31px;
+top: 545px;
+
+font-family: 'Chivo';
+font-style: normal;
+font-weight: 400;
+font-size: 10px;
+line-height: 12px;
+
+color: #000000;
+}
+.projects43{
+/* 43 Projects */
+
+position: absolute;
+width: 47px;
+height: 37px;
+left: 28px;
+top: 598px;
+
+font-family: 'Chivo';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 29px;
+text-align: center;
+
+color: #000000;
+}
+.inner43{
+    font-size: 24px;
+}
+.six {
+    /* 6 Years */
+
+position: absolute;
+width: 47px;
+height: 37px;
+left: 100px;
+top: 598px;
+
+font-family: 'Chivo';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 29px;
+text-align: center;
+
+color: #000000;
+}
+.innersix{
+    font-size: 24px;
+}
+
+.dollarPrice{
+/* $$$ Price */
+
+position: absolute;
+width: 47px;
+height: 37px;
+left: 178px;
+top: 598px;
+
+font-family: 'Chivo';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 29px;
+text-align: center;
+
+color: #000000;
+
+}
+.innerdollar {
+    font-size: 24px;
+}
+
+.number1{
+    /* +91 - 984532853 */
+
+position: absolute;
+width: 133px;
+height: 19px;
+left: 32px;
+top: 668px;
+
+font-family: 'Chivo';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 19px;
+/* identical to box height */
+
+color: #000000;
+
+
+
+
+}
+
+.number2 {
+    /* +91 - 984532854 */
+
+position: absolute;
+width: 133px;
+height: 19px;
+left: 32px;
+top: 690px;
+
+font-family: 'Chivo';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 19px;
+/* identical to box height */
+
+color: #000000;
+
+
+}
+.line3{
+    /* Line 3 */
+
+position: absolute;
+width: 233px;
+height: 0px;
+left: 274px;
+top: 472px;
+
+border: 0.25px solid #D0D0D0;
+transform: rotate(89.74deg) translateX(116px) translateY(116px);
+
+}
+
+.line4 {
+    /* Line 4 */
+
+position: absolute;
+width: 359px;
+height: 0px;
+left: 0px;
+top: 743px;
+
+border: 0.25px solid #D0D0D0;
+
+}
+
+.arrow2{
+/* Details */
+    position: absolute;
+    width: 26px;
+    height: 10px;
+    left: 305px;
+    top: 499px;
+
+    font-family: 'Chivo';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 8px;
+    line-height: 10px;
+    /* identical to box height */
+    color: #8D4337;
+}
+
+
+.arrow2_img{
+    position: absolute;
+    width: 23px;
+    height: 22px;
+    left: 306px;
+    top: 479px;
+
+}
+
+
+.eyelash_img{
+     
+position: absolute;
+width: 20px;
+height: 20px;
+left: 306px;
+top: 542px;    
+}
+.eyelash{
+    /* Hide */
+
+position: absolute;
+width: 17px;
+height: 10px;
+left: 308px;
+top: 565px;
+
+font-family: 'Chivo';
+font-style: normal;
+font-weight: 400;
+font-size: 8px;
+line-height: 10px;
+/* identical to box height */
+
+color: #8D4337;
+
+
+}    
+
+.shortlist_img{
+    /* bookmark-heart 1 */
+
+    position: absolute;
+    width: 23px;
+    height: 21px;
+    left: 306px;
+    top: 603px;
+}
+.shortlist{
+    /* Shortlist */
+
+position: absolute;
+width: 33px;
+height: 10px;
+left: 302px;
+top: 627px;
+
+font-family: 'Chivo';
+font-style: normal;
+font-weight: 400;
+font-size: 8px;
+line-height: 10px;
+/* identical to box height */
+
+color: #8D4337;
+}
+
+
+.Report_img{
+        /* exclamation-circle 1 */
+
+position: absolute;
+width: 16px;
+height: 16px;
+left: 309px;
+top: 674px;
+
+}
+.Report{
+    /* Report */
+
+position: absolute;
+width: 26px;
+height: 10px;
+left: 305px;
+top: 695px;
+
+font-family: 'Chivo';
+font-style: normal;
+font-weight: 400;
+font-size: 8px;
+line-height: 10px;
+/* identical to box height */
+
+color: #8D4337;
+
+
+}
+
+
+
+
+
+/**************************************Rectangle 3 and its divisions**************************************************** */
+
+.Rectangle3 {
+   
+
+box-sizing: border-box;
+
+position: absolute;
+width: 360px;
+height: 59px;
+left: 0px;
+top: 743px;
+
+background: #FFFCF2;
+border-top: 0.25px solid #D7D7D7;
+
+}
+
+  
+.HouseofDesigns {
+    /* House of designs */
+
+position: absolute;
+width: 150px;
+height: 21px;
+left: 33px;
+top: 777px;
+
+font-family: 'Chivo';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 21px;
+
+color: #000000;
+
+}
+.arrow1_img {
+    position: absolute;
+    width: 23px;
+    height: 22px;
+    left: 306px;
+    top: 778px;
+
+
+}
+
+/* Line 5 */
+.line5{
+position: absolute;
+width: 23px;
+height: 0px;
+left: 275px;
+top: 777px;
+
+border: 0.25px solid #D0D0D0;
+transform: rotate(90deg) translateX(11px) translateY(11px);
+}
+
+.center {
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  /* width: 50%; */
+}
+
+.arrow1 {
+    position: absolute;
+    width: 26px;
+    height: 10px;
+    left: 305px;
+    top: 798px;
+    
+    font-family: 'Chivo';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 8px;
+    line-height: 10px;
+    /* identical to box height */
+    
+    color: #8D4337;
+
+}
